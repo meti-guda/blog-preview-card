@@ -26,11 +26,15 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshots
 
-![Mobile Solution](./mobile.png)
+#### Mobile View
 
-![Desktop Solution](./desktop.png)
+![Mobile view](./mobile.png)
+
+#### Desktop View
+
+![Desktop view](./desktop.png)
 
 ### Links
 
